@@ -5,6 +5,7 @@
   <remote name="apollob-dev" fetch="ssh://git@github.com/realme-apollob-dev" />
   <project remote="apollob-dev" path="device/realme/apollob" name="android_device_realme_apollob" />
   <project remote="apollob-dev" path="kernel/realme/mt6833" name="android_kernel_realme_mt6833" />
+  <project remote="apollob-dev" path="kernel/realme/vendor" name="android_kernel_realme_mt6833_vendor" />
   <project remote="apollob-dev" path="hardware/oplus" name="android_hardware_oplus" />
   <project remote="apollob-dev" path="hardware/mediatek" name="android_hardware_mediatek" />
   <project remote="apollob-dev" path="vendor/realme" name="android_vendor_realme" />
